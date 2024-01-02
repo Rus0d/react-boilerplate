@@ -1,0 +1,10 @@
+{
+  "layout": {
+    "menu": {
+      "home": "Home",
+      "courses": "Courses",
+      "nothing": "Nothing Here",
+      "theme": "Theme"
+    }
+  }
+}
